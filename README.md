@@ -340,9 +340,12 @@
 
 ## 应用实例 
 
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) ★42382 - 后台前端解决方案(复杂版） 
+- [vue-admin-element](https://github.com/PanJiaChen/vue-admin-element) ★7960 - 后台前端解决方案(极简版）
+- [vue-manage-system](https://github.com/lin-xin/vue-manage-system) ★8078 - 后台管理系统解决方案 
+- [vue2-element-touzi-admin](https://github.com/wdlhao/vue2-element-touzi-admin) ★2022 - 后台管理系统解决方案
 - [koel](https://github.com/phanan/koel) ★7773 - 基于网络的个人音频流媒体服务 
 - [pagekit](https://github.com/pagekit/pagekit) ★4225 - 轻量级的CMS建站系统 
-- [vue-manage-system](https://github.com/lin-xin/vue-manage-system) ★2057 - 后台管理系统解决方案 
 - [vuedo](https://github.com/Vuedo/vuedo) ★1265 - 博客平台 
 - [jackblog-vue](https://github.com/jackhutu/jackblog-vue) ★1120 - 个人博客系统 
 - [PJ Blog](https://github.com/jcc/blog) ★1018 - 开源博客 
@@ -362,7 +365,6 @@
 - [adminify](https://github.com/wxs77577/adminify) ★46 - 一个基于Vuetify material的Admin面板 
 
 ## Demo示例 
-
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) ★8036 - 重写饿了么webapp 
 - [Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs) ★2491 - 基于vue重写Cnodejs.org的webapp 
 - [NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) ★1549 - 高仿网易云音乐的webapp 
